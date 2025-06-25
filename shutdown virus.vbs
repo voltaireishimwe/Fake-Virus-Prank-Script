@@ -1,0 +1,1 @@
+shutdown - -t 30 -c "lol"

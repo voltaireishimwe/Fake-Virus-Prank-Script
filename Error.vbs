@@ -1,0 +1,1 @@
+X=MsgBox("Error while opening computer. Do you want to fix it?" ,0+16,"computer")
